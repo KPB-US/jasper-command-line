@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jasper-command-line (0.4.2)
+    jasper-command-line (0.4.3)
       activesupport (>= 3.2.0)
       builder (>= 3.0.3)
       prawn (>= 0.12.0)
